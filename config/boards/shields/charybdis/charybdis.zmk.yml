@@ -1,11 +1,11 @@
 file_format: "1"
-id: chary
-name: Chary
+id: charybdis
+name: Charybdis
 type: shield
 url: https://github.com/jimmerricks/swoop
 requires: [pro_micro]
 features:
   - keys
 siblings:
-  - chary_left
-  - chary_right
+  - charybdis_left
+  - charybdis_right

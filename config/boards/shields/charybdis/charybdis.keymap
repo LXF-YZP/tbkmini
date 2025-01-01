@@ -4,4 +4,4 @@
  * SPDX-License-Identifier: MIT
  */
 
-#include "../../../chary.keymap"
+#include "../../../charybdis.keymap"
